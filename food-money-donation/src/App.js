@@ -1,9 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import PropTypes from 'prop-types';
-import classNames from 'classnames';
-import Button from 'material-ui/Button';
-
+import Button from 'react-bootstrap/lib/Button';
 
 // We can inject some CSS into the DOM.
 const style_button = {
